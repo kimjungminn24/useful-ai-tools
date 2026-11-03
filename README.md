@@ -20,6 +20,7 @@ A collection of AI-related GitHub repos, MCP servers and prompts.
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) ![](https://img.shields.io/github/stars/anthropics/claude-code?style=flat) | Tool | Terminal-based AI coding tool |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ![](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) | MCP | Official MCP servers |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ![](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat) | Tool | Plugin that makes AI agents write less code |
+| [mattpocock/skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/github/stars/mattpocock/skills?style=flat) | Skill | Matt Pocock's Claude Code skills for real-world engineering |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ![](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat) | Tool | AI code review tool from Alibaba |
 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) ![](https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat) | Prompt | GPT Image 2 prompt collection |
 

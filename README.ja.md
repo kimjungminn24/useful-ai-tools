@@ -20,6 +20,7 @@ AI関連のGitHubリポジトリ、MCP、プロンプトまとめ
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) ![](https://img.shields.io/github/stars/anthropics/claude-code?style=flat) | Tool | ターミナルで使うAIコーディングツール |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ![](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat) | MCP | MCP公式サーバー集 |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ![](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat) | Tool | AIに書くコードを減らさせるプラグイン |
+| [mattpocock/skills](https://github.com/mattpocock/skills) ![](https://img.shields.io/github/stars/mattpocock/skills?style=flat) | Skill | Matt Pocockが実際に使っているエンジニアリング向けClaude Codeスキル集 |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ![](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat) | Tool | Alibaba製のAIコードレビューツール |
 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) ![](https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat) | Prompt | GPT Image 2のプロンプト集 |
 
